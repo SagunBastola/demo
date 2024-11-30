@@ -1,3 +1,4 @@
 # demo
 First repositiory
-author:Sagun Bastola
+<br>
+Author:Sagun Bastola
